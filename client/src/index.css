@@ -10,6 +10,6 @@ body {
 @tailwind utilities;
 
 .container{
-    max-width: 1400px;
+    max-width: 1440px;
     margin: auto;
 }
