@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import AdvocatePage from './components/AdvocatePage'
 import TopratedLawers from './components/TopratedLawers'
 import StepsSection from './components/StepsSection'
+import WhyChoose from './components/WhyChoose'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <AdvocatePage />
       <TopratedLawers />
+      <WhyChoose />
       <StepsSection/>
     </>
   )
