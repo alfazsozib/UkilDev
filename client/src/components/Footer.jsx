@@ -60,7 +60,10 @@ function Footer() {
             </div>
 
           </div>
+          
         </div>
+        <hr />
+        <p className='text-center text-[#aaa9a9af] my-4'>All Right Reserve to UKIl</p>
       </div>
     </div>
   )
