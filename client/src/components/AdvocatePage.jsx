@@ -31,7 +31,7 @@ function AdvocatePage() {
                 </div>
 
             </div>
-            <div className='w-full flex justify-center items-center mt-16 max-sm:mt-28'>
+            <div className='w-full flex justify-center items-center mt-16 max-sm:mt-56'>
                 <button className='bg-[#42113C] text-white px-10 py-2 rounded-md '>See More</button>
             </div>
         </>
