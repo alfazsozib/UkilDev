@@ -7,7 +7,7 @@ function QuestionAns() {
         <div id='questionAns' className='container mx-auto p-5 my-16'>
             <div>
                 <h1 className='text-4xl font-bold text-center my-12'>Question & Answer</h1>
-                <div className='qnaBox w-full lg:h-[450px] flex gap-10'>
+                <div className='qnaBox w-full lg:h-[450px] flex max-sm:flex max-sm:flex-col gap-10'>
                     <div className='imageSide'>
                         <div className='relative w-fit'>
                             <img
