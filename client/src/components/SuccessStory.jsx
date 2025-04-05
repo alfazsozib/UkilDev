@@ -11,7 +11,7 @@ function SuccessStory() {
         {/* card section start  */}
                     <div className='card w-96 bg-white rounded-2xl shadow-xl relative p-6 m-6 pt-12'>
                         <div className='absolute -top-6 left-16 transform -translate-x-1/2'>
-                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white' />
+                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white object-cover' />
                         </div>
                         <div className='text-left mt-2 text-[#000000]'>
                             <p className='mb-4'>“Ukil helped me find the perfect advocate for my property dispute. The case was resolved quickly, and I'm very satisfied with the outcome.”</p>
@@ -21,7 +21,7 @@ function SuccessStory() {
 
                     <div className='card w-96 bg-white rounded-2xl shadow-xl relative p-6 m-6 pt-12'>
                         <div className='absolute -top-6 left-16 transform -translate-x-1/2'>
-                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white' />
+                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white object-cover' />
                         </div>
                         <div className='text-left mt-2 text-[#000000]'>
                             <p className='mb-4'>“Ukil helped me find the perfect advocate for my property dispute. The case was resolved quickly, and I'm very satisfied with the outcome.”</p>
@@ -31,7 +31,7 @@ function SuccessStory() {
 
                     <div className='card w-96 bg-white rounded-2xl shadow-xl relative p-6 m-6 pt-12'>
                         <div className='absolute -top-6 left-16 transform -translate-x-1/2'>
-                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white' />
+                            <img src={reviewImage} alt="" className='w-16 h-16 rounded-full border-2 border-white object-cover' />
                         </div>
                         <div className='text-left mt-2 text-[#000000]'>
                             <p className='mb-4'>“Ukil helped me find the perfect advocate for my property dispute. The case was resolved quickly, and I'm very satisfied with the outcome.”</p>

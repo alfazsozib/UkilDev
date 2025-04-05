@@ -7,6 +7,8 @@ import StepsSection from './components/StepsSection'
 import WhyChoose from './components/WhyChoose'
 import QuestionAns from './components/QuestionAns'
 import SuccessStory from './components/SuccessStory'
+import FAQ from './components/FAQ'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
       <StepsSection/>
       <QuestionAns />
       <SuccessStory />
+      <FAQ />
+      <Footer/>
     </>
   )
 }
