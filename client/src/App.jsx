@@ -5,6 +5,7 @@ import AdvocatePage from './components/AdvocatePage'
 import TopratedLawers from './components/TopratedLawers'
 import StepsSection from './components/StepsSection'
 import WhyChoose from './components/WhyChoose'
+import QuestionAns from './components/QuestionAns'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <TopratedLawers />
       <WhyChoose />
       <StepsSection/>
+      <QuestionAns />
     </>
   )
 }
