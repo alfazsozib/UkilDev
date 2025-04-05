@@ -7,7 +7,7 @@ function AdvocatePage() {
     return (
         <>
             <div id='advocate' className='container mx-auto p-5'>
-                <div className='data-sec relative top-12 lg:grid lg:grid-cols-3 lg:gap-5'>
+                <div className='data-sec relative max-sm:top-32 top-12 lg:grid lg:grid-cols-3 lg:gap-5 grid grid-cols-1 gap-12'>
                     {cardData.map((item, index) => (
                         <div className='card border-1 border-[rgba(10, 10, 10, 0.50)] rounded-[8px]'>
                             <div className='card-img'>
